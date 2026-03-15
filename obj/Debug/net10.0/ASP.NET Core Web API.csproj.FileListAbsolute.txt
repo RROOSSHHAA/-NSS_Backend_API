@@ -1,12 +1,3 @@
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.csproj.AssemblyReference.cache
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.AssemblyInfoInputs.cache
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.AssemblyInfo.cs
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.csproj.CoreCompileInputs.cache
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.sourcelink.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\Services\appsettings.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\ASP.NET Core Web API.staticwebassets.endpoints.json
@@ -65,6 +56,15 @@ C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.csproj.AssemblyReference.cache
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.AssemblyInfoInputs.cache
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.AssemblyInfo.cs
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.sourcelink.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
