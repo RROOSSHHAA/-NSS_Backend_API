@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET Core Web API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2d6beea9310cd80064b2ae21d7733a3bfc2790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9582710759bced55b6c7865ef1de11df20d61212")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET Core Web API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET Core Web API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
