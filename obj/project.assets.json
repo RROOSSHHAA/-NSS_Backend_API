@@ -1792,11 +1792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\ASP.NET Core Web API\\ASP.NET Core Web API.csproj",
+      "projectUniqueName": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\NssApi\\ASP.NET Core Web API.csproj",
       "projectName": "ASP.NET Core Web API",
-      "projectPath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\ASP.NET Core Web API\\ASP.NET Core Web API.csproj",
+      "projectPath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\NssApi\\ASP.NET Core Web API.csproj",
       "packagesPath": "C:\\Users\\rosha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\ASP.NET Core Web API\\obj\\",
+      "outputPath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\NssApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rosha\\AppData\\Roaming\\NuGet\\NuGet.Config"

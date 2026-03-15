@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nW/lHY+oBeY=",
+  "dgSpecHash": "exopmafKgPk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\ASP.NET Core Web API\\ASP.NET Core Web API.csproj",
+  "projectFilePath": "C:\\Users\\rosha\\Documents\\NSS_API_Project\\NssApi\\ASP.NET Core Web API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosha\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\rosha\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
