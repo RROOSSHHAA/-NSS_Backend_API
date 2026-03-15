@@ -1,0 +1,57 @@
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ASP.NET Core Web API.exe
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\appsettings.Development.json
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Services\appsettings.json
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ASP.NET Core Web API.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ASP.NET Core Web API.deps.json
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ASP.NET Core Web API.runtimeconfig.json
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ASP.NET Core Web API.pdb
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Azure.Core.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Azure.Identity.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\BCrypt.Net-Next.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\BouncyCastle.Cryptography.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\MailKit.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.Bcl.Cryptography.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.Data.SqlClient.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.Identity.Client.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.Logging.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.OpenApi.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Microsoft.SqlServer.Server.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\MimeKit.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\System.ClientModel.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\System.Configuration.ConfigurationManager.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\System.Memory.Data.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rosha\Documents\NSS_API_Project\NssApi\out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
