@@ -80,3 +80,9 @@ C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.pdb
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ASP.NET Core Web API.genruntimeconfig.cache
 C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\obj\Debug\net10.0\ref\ASP.NET Core Web API.dll
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\web.config
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\appsettings.Development.json
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\ASP.NET Core Web API.deps.json
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\ASP.NET Core Web API.runtimeconfig.json
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\ASP.NET Core Web API.staticwebassets.endpoints.json
+C:\Users\rosha\Documents\NSS_API_Project\ASP.NET Core Web API\bin\Debug\net10.0\out\Services\appsettings.json
